@@ -1,0 +1,4 @@
+python-telegram-bot
+feedparser
+asyncio
+telegram
